@@ -1,0 +1,6 @@
+qiskit
+jupyter
+ipywidgets
+matplotlib
+seaborn
+pydot
